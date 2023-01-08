@@ -15,7 +15,15 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+```
+def circulate():
+    a=eval(input())
+    x=int(input())
+    print("After circulating the values are: {}".format(a[x:]+a[:x]))
+```
 
 ## Output:
+![model](/image.png)
 
 ## Result:
+circulate the value of n variable is succsessfull
