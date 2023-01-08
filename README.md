@@ -23,7 +23,7 @@ def circulate():
 ```
 
 ## Output:
-![model](/image.png)
+![model](/images.png)
 
 ## Result:
 circulate the value of n variable is succsessfull
